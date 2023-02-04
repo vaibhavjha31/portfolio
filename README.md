@@ -1,5 +1,2 @@
-THIS IS MY PORTFOLIO 
-MADE USING REACT FRAMEWORK
-
-
-Check it out at: https://vaibhavjhaportfolio.netlify.app
+LINK TO MY PORTFOLIO
+https://vaibhavjhaportfolio.netlify.app
